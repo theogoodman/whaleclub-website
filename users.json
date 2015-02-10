@@ -786,6 +786,23 @@
 		"youtube": "",
 		"twitter": "",
 		"tradingview": "",
+	},
+		"flibbr": { 
+		"tsname": ["Krach"],
+		"gender": "m",
+		"country": "DE/USA",
+		"badgeid": 
+		"lat": 
+		"lng": 
+		"workstation": 
+		"selfie": ,
+		"about": ,
+		"interests": ["Bitcoin","Trade Bots","MMA","Dog Brothers","Experimental Music"],
+		"indicators": ["EMA","RSI","ICHI Cloud","MACD","Bollinger Bands",ST-RSI],
+		"website": "http://www.soundwallet.net",
+		"youtube": "/user/worldcryptonetwork",
+		"twitter": "bitcoinpotato",
+		"tradingview": "bitcointrader",
 	}
 }
 
